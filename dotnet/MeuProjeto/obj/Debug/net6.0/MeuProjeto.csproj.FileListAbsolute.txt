@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\dotnet\MeuProjeto\bin\Debug\net6.0\MeuProjeto.exe
+C:\Users\Alunos\Desktop\dotnet\MeuProjeto\bin\Debug\net6.0\MeuProjeto.deps.json
+C:\Users\Alunos\Desktop\dotnet\MeuProjeto\bin\Debug\net6.0\MeuProjeto.runtimeconfig.json
+C:\Users\Alunos\Desktop\dotnet\MeuProjeto\bin\Debug\net6.0\MeuProjeto.dll
+C:\Users\Alunos\Desktop\dotnet\MeuProjeto\bin\Debug\net6.0\MeuProjeto.pdb
+C:\Users\Alunos\Desktop\dotnet\MeuProjeto\obj\Debug\net6.0\MeuProjeto.csproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\dotnet\MeuProjeto\obj\Debug\net6.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\dotnet\MeuProjeto\obj\Debug\net6.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\dotnet\MeuProjeto\obj\Debug\net6.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\dotnet\MeuProjeto\obj\Debug\net6.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\dotnet\MeuProjeto\obj\Debug\net6.0\MeuProjeto.dll
+C:\Users\Alunos\Desktop\dotnet\MeuProjeto\obj\Debug\net6.0\refint\MeuProjeto.dll
+C:\Users\Alunos\Desktop\dotnet\MeuProjeto\obj\Debug\net6.0\MeuProjeto.pdb
+C:\Users\Alunos\Desktop\dotnet\MeuProjeto\obj\Debug\net6.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\dotnet\MeuProjeto\obj\Debug\net6.0\ref\MeuProjeto.dll
