@@ -1,4 +1,4 @@
-    public class ContaCorrente
+public class ContaCorrente
 {
   public string Titular;
   public int Agencia;
@@ -19,6 +19,14 @@
     }
     return false;
       }
+    public bool Depositar(double valorDeposito){
+      if(valorDeposito > 0){
+        this.Saldo = this.Saldo + valorDeposito;
+        return true;
+      }
+        return false;
     }
+    }
+    
     
   
