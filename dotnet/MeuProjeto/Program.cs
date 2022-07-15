@@ -21,7 +21,15 @@ namespace MeuProjeto // Note: actual namespace depends on the project name.
          Console.WriteLine(" A conta é da " + conta_da_Buru.Titular + ", o numero da agência é " + conta_da_Buru.Agencia + " e o numero da conta é " + conta_da_Buru.Numero + " Saldo: " + conta_da_Buru.Saldo + ".");
          Console.WriteLine(" A conta é da " + conta_da_Ny.Titular + ", o numero da agência é " + conta_da_Ny.Agencia + " e o numero da conta é " + conta_da_Ny.Numero  + " Saldo: " + conta_da_Ny.Saldo + ".");
          Console.WriteLine(" A conta é da " + conta_da_Vi.Titular + ", o numero da agência é " + conta_da_Vi.Agencia + " e o numero da conta é " + conta_da_Vi.Numero + " Saldo: " + conta_da_Vi.Saldo + ".");
+         
+         bool depositarconta_da_Buru = conta_da_Buru.Depositar(300);
+         bool depositarconta_da_Ny = conta_da_Ny.Depositar(300);
+         bool depositarconta_da_Vi = conta_da_Vi.Depositar(300);
 
+          Console.WriteLine(" A conta é da " + conta_da_Buru.Titular + ", o numero da agência é " + conta_da_Buru.Agencia + " e o numero da conta é " + conta_da_Buru.Numero + " Saldo: " + conta_da_Buru.Saldo + ".");
+         Console.WriteLine(" A conta é da " + conta_da_Ny.Titular + ", o numero da agência é " + conta_da_Ny.Agencia + " e o numero da conta é " + conta_da_Ny.Numero  + " Saldo: " + conta_da_Ny.Saldo + ".");
+         Console.WriteLine(" A conta é da " + conta_da_Vi.Titular + ", o numero da agência é " + conta_da_Vi.Agencia + " e o numero da conta é " + conta_da_Vi.Numero + " Saldo: " + conta_da_Vi.Saldo + ".");
+         
         }   
     }
 }
